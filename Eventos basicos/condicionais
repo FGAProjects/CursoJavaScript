@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta http-equiv="Content-Type" charset= "utf-8"/>
+			<title>
+				Aula de Javascript
+			</title>
+		</head>
+
+		<body>
+			<script type="text/javascript">
+				/*
+					Comentário
+				*/
+
+				var valor = 10;
+
+				if(valor == 8) {
+
+					document.write("Esse valor é o 8");
+				} else if(valor == 6) {
+
+					document.write("Esse valor é o 6");
+				} else {
+
+					document.write("O valor é desconhecido");
+				}
+
+			</script>
+		</body>
+	</html>
